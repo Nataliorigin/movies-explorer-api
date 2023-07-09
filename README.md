@@ -14,6 +14,13 @@
 - удаление фильмов
 - созранение фильмов на личной странице
 ```
+## Ссылки на проект
+
+IP 158.160.64.107
+
+Frontend https://movieManiaHub.nomoredomains.work
+
+Backend https://api.movieManiaHub.nomoredomains.work
 
 ## Технологии
 * Node.js
@@ -24,3 +31,4 @@
 `npm run start` — запускает сервер
 
 `npm run dev` — запускает сервер с hot-reload
+
