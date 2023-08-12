@@ -1,6 +1,8 @@
 const allowedCors = [
   'https://movieManiaHub.nomoredomains.work',
   'http://movieManiaHub.nomoredomains.work',
+  'http://api.movieManiaHub.nomoredomains.work',
+  'https://api.movieManiaHub.nomoredomains.work',
   'http://localhost:3000',
   'http://localhost:3001',
 ];
