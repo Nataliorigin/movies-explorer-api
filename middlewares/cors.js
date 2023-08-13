@@ -1,8 +1,8 @@
 const allowedCors = [
-  'https://movieManiaHub.nomoredomains.work',
-  'http://movieManiaHub.nomoredomains.work',
-  'http://api.movieManiaHub.nomoredomains.work',
-  'https://api.movieManiaHub.nomoredomains.work',
+  'https://moviemaniahub.nomoredomains.work',
+  'http://moviemaniahub.nomoredomains.work',
+  'http://api.moviemaniahub.nomoredomains.work',
+  'https://api.moviemaniahub.nomoredomains.work',
   'https://api.moviemaniahub.nomoredomains.work/signin',
   'https://api.moviemaniahub.nomoredomains.work/signin',
   'https://api.moviemaniahub.nomoredomains.work/signup',
