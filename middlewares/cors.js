@@ -4,7 +4,9 @@ const allowedCors = [
   'http://api.movieManiaHub.nomoredomains.work',
   'https://api.movieManiaHub.nomoredomains.work',
   'http://localhost:3000',
+  'https://localhost:3000',
   'http://localhost:3001',
+  'https://localhost:3001',
 ];
 
 module.exports.cors = (req, res, next) => {
